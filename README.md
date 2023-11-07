@@ -6,7 +6,7 @@ This project is an analysis of the Create and World Databases using MySQL, demon
 
 The World Database is a comprehensive dataset that provides information about countries, cities, and continents. 
 The Create Database is a dataset focusing on information surrounding invoicing, inventory and stores.
-In this project, I used MySQL query the data and extract meaningful insights from it. 
+In this project, I used MySQL to query the data and extract meaningful insights from it. 
 I will highlight the project's key components, the insights gained, and the MySQL skills demonstrated.
 
 ## SQL Skills Demonstrated
