@@ -41,14 +41,12 @@ The analysis of the World and the Create Databases yielded several insights, suc
 
 To get started with this project, you can follow these steps:
 
-1. Download the two database files 'world db' and 'create-databases' and the remaining sql file 'sqlPART2'
-
-2. Open the 'create-databases' file and the word document 'SQLAssignmentDAYA'.
+1. Open the 'create-databases' file and the word document 'SQLAssignmentDAYA'.
    After skimming through the Create dataset, have look at my analysis and the EER diagrams for both databases
 
-4. Repeat with the World dataset and the sql analysis file
+2. Repeat with the World dataset 'world db' and the sql analysis file 'sqlPART2'
 
-5. Have fun exploring!
+3. Have fun exploring!
 
 ## Project Dependencies
 
