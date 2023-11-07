@@ -37,6 +37,31 @@ The analysis of the World and the Create Databases yielded several insights, suc
 
 - **Generating EER Diagrams**: Observed the relationships between tables and took note of primary and foreign keys
 
+## Getting Started
+
+To get started with this project, you can follow these steps:
+
+1. Download the two database files 'world db' and 'create-databases' and the remaining sql file 'sqlPART2'
+
+2. Open the 'create-databases' file and the word document 'SQLAssignmentDAYA'.
+   After skimming through the Create dataset, have look at my analysis and the EER diagrams for both databases
+
+4. Repeat with the World dataset and the sql analysis file
+
+5. Have fun exploring!
+
+## Project Dependencies
+
+- Microsoft Word (screenshots of analysis and EER diagrams)
+- MySQL (for querying and databases)
+
+## Conclusion
+
+This project demonstrates my MySQL skills and data analysis abilities by importing the World and Create Databases, and extracting meaningful insights from it. By showcasing the SQL skills listed above and providing valuable insights, I have not only honed my SQL skills but also showcased my data analysis capabilities and potential.
+
+Please feel free to explore the project and reach out with any questions or feedback. Your comments and suggestions are highly appreciated.
+
+Thank you for visiting!
 
 
     
