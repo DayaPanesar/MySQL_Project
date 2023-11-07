@@ -1,6 +1,6 @@
 # SQL World Database Project
 
-This project is an analysis of the World Database using MySQL, demonstrating my SQL skills and data analysis abilities.
+This project is an analysis of the Create and World Databases using MySQL, demonstrating my SQL skills and data analysis abilities.
 
 ## Project Overview
 
